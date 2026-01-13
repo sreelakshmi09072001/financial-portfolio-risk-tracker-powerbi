@@ -25,7 +25,7 @@ It helps analyze portfolio performance and risk using key financial metrics such
 - DAX (Measures & Calculations)
 
 ## 📂 Dataset
-NSE NIFTY 50 Historical Prices (Kaggle)
+NSE NIFTY 50 Historical Prices (Kaggle Link: https://www.kaggle.com/datasets/rohanrao/nifty50-stock-market-data?resource=download)
 
 ## 👤 Author
 Sreelakshmi
